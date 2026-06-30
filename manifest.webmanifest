@@ -1,0 +1,9 @@
+{
+  "name": "同步清单与笔记",
+  "short_name": "清单笔记",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#f7f4ed",
+  "icons": []
+}
